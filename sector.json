@@ -2,6 +2,5 @@
 "http://localhost:44343/auth-redirect",
 "http://localhost:44343/signed-redirect",
 "https://localhost:44300/test/public/bankid/BankIDIdentifikace",
-"https://localhost:44300/test/public/bankid/BankIDPodepisovani",
 "https://essas.softip.sk/dps/Public/bankid/BankIDIdentifikace"
 ]
